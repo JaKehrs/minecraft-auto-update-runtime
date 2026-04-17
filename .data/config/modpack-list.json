@@ -1,0 +1,72 @@
+{
+  "Defaults": {
+    "Resourcepacks": [
+      "enchant-icons-countxd",
+      "even-better-enchants",
+      "enhanced-boss-bars",
+	  "default-dark-mode-expansion",
+      "default-dark-mode",
+      "fresh-animations",
+      "fresh-animations-extensions",
+      "fancy-crops",
+      "rays-3d-ladders",
+      "cubic-sun-moon",
+      "rays-3d-rails",
+      "better-lanterns",
+      "theones-eating-animation-pack",
+	  "rekindled-ctm",
+	  "fire-rekindled",
+	  "animated-totem-of-undying",
+	  "different-textures-for-enchanted-books",
+	  "os-colorful-cobblestone"
+    ],
+    "Shaderpacks": [
+      "complementary-reimagined"
+    ],
+    "Mods": [
+	  "simple-voice-chat",
+	  "sound-physics-remastered",
+	  "euphoria-patches",
+	  "betterf3",
+	  "resourcify",
+	  "detail-armor-bar-reconstructed",
+	  "scrolltweaks",
+	  "craftpresence",
+	  "appleskin"
+	]
+  },
+  "Options": [
+    {
+      "OptionName": "Fabulously Optimized",
+      "ProfileName": "Fabulously Optimized",
+      "ModpackID": "1KVo5zza",
+      "InstallOverrides": true,
+
+      "ResourcepacksMode": "extend",
+      "Resourcepacks": [],
+      "ShaderpacksMode": "extend",
+      "Shaderpacks": [],
+      "ModsMode": "extend",
+      "Mods": [],
+	  
+      "RequestModDependencies": true
+    },
+    {
+      "OptionName": "Distant Horizons and Iris Shaders",
+      "ProfileName": "Distant Horizons & Iris Shaders",
+      "ModpackID": "yiYYuulE",
+      "InstallOverrides": false,
+
+      "ResourcepacksMode": "extend",
+      "Resourcepacks": [],
+      "ShaderpacksMode": "extend",
+      "Shaderpacks": [],
+      "ModsMode": "extend",
+      "Mods": [
+		"cubes-without-borders"
+	  ],
+	  
+      "RequestModDependencies": true
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+# root files
+/MinecraftLauncher.exe
+/MinecraftLauncher.ini
+/MinecraftLauncher_Log.txt
+/copyIP.bat
+
+# keep folders, ignore contents except .gitkeep
+/.data/.runtime/java/**
+!/.data/.runtime/java/.gitkeep
+
+/.data/.runtime/launcher/**
+!/.data/.runtime/launcher/.gitkeep
+
+/.data/.runtime/modpack_manager/**
+!/.data/.runtime/modpack_manager/.gitkeep
+
+/.data/.runtime/python/**
+!/.data/.runtime/python/.gitkeep
+
+/.data/.runtime/silent_powershell/**
+!/.data/.runtime/silent_powershell/.gitkeep
+
+/.data/.temp/**
+!/.data/.temp/.gitkeep
+
+/.data/gamefiles/**
+!/.data/gamefiles/.gitkeep
+
+# ignore completely
+/.data/presentation/

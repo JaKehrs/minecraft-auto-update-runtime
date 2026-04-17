@@ -1,0 +1,12 @@
+{
+  "modpacks": [
+    {
+      "name": "Fabulously Optimized",
+      "output_dir": "\\\\?\\D:\\Minecraft\\.data\\gamefiles\\instances\\Fabulously Optimized\\.minecraft",
+      "install_overrides": true,
+      "identifier": {
+        "ModrinthModpack": "1KVo5zza"
+      }
+    }
+  ]
+}

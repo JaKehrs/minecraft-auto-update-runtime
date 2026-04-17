@@ -1,0 +1,5 @@
+Firewall
+
+uppnp (oder wie das heißt, halt automatische Portfreigabe)
+
+usemods umändern zu "usedependencies" mods/ ressourcepacks und mods einfach normal extenden können

@@ -1,0 +1,88 @@
+{
+  "mods": [
+    "simple-voice-chat",
+    "sound-physics-remastered",
+    "euphoria-patches",
+    "betterf3",
+    "resourcify",
+    "detail-armor-bar-reconstructed",
+    "scrolltweaks",
+    "craftpresence",
+    "appleskin"
+  ],
+  "resourcepacks": [
+    "enchant-icons-countxd",
+    "even-better-enchants",
+    "enhanced-boss-bars",
+    "default-dark-mode-expansion",
+    "default-dark-mode",
+    "fresh-animations",
+    "fresh-animations-extensions",
+    "fancy-crops",
+    "rays-3d-ladders",
+    "cubic-sun-moon",
+    "rays-3d-rails",
+    "better-lanterns",
+    "theones-eating-animation-pack",
+    "rekindled-ctm",
+    "fire-rekindled",
+    "animated-totem-of-undying",
+    "different-textures-for-enchanted-books",
+    "os-colorful-cobblestone"
+  ],
+  "shaders": [
+    "complementary-reimagined"
+  ],
+  "storage": "../../.temp/runtime_modpack_extender/storage",
+  "cache_lifetime_minutes": 4,
+  "tmp_path": "../../.temp/runtime_modpack_extender/tmp",
+  "instance_path": "D:\\Minecraft\\.data\\gamefiles\\instances\\Fabulously Optimized\\.minecraft\\overrides",
+  "threads": 4,
+  "modrinth": {
+    "max_queries_per_minute": 256,
+    "minecraft_versions": {
+      "mods": [
+        "26.1"
+      ],
+      "resourcepacks": [
+        "26.1"
+      ],
+      "shaders": [
+        "26.1"
+      ]
+    },
+    "loader": {
+      "mods": "fabric",
+      "resourcepacks": "minecraft",
+      "shaders": "iris"
+    },
+    "request_dependencies": [
+      "required",
+      "#optional"
+    ],
+    "primaries_only": {
+      "mods": true,
+      "resourcepacks": false,
+      "shaders": true
+    },
+    "try_not_download_sources": {
+      "mods": true,
+      "resourcepacks": true,
+      "shaders": true
+    },
+    "fallback_to_latest": {
+      "mods": false,
+      "resourcepacks": true,
+      "shaders": true
+    },
+    "allow_prereleases": {
+      "mods": false,
+      "resourcepacks": false,
+      "shaders": false
+    },
+    "user": {
+      "login": "",
+      "password": ""
+    }
+  }
+}
