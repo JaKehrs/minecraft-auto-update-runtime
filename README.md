@@ -85,7 +85,7 @@ python313.zip
 ..\modpack_extender
 # Uncomment to run site.main() automatically
 import site
-Lib\site-packages```
+Lib\site-packages
 
 ## External Components
 
